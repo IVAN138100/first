@@ -37,5 +37,13 @@
 [ссылочный стиль] [1]
 [1] :https://example.com
 
+100074947938b0.jpg
+
+Картинки 
+--------
+![Альт текст](100074947938b0.jpg)
+![логотип](https://avatars.mds.yandex.net/i?id=65016fbbce710eb2d54c52cc05247171099b8dd891421be5-12432361-images-thumbs&n=13 "Подсказка")
+
+[![клик по картинке](https://avatars.mds.yandex.net/i?id=65016fbbce710eb2d54c52cc05247171099b8dd891421be5-12432361-images-thumbs&n=13)](https://www.belprodykt.ru/collection/sardelki-s-sosiski?ysclid=mu2gxvseqs483466167) 
 
 
